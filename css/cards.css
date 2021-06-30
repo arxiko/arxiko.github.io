@@ -1,0 +1,21 @@
+/* https://codepen.io/dudleystorey/pen/FvJDB */
+/* https://codepen.io/anon/pen/OeNMXN */
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+#team-shape {
+    font-family: Open Sans, sans-serif;
+    margin: 2rem;
+}
+
+#team-shape p {
+    line-height: 1.8;
+}
+
+#team-shape .curve {
+    width: 15%;
+    height: auto;
+    min-width: 100px;
+    float: left;
+    margin-right: 2rem;
+    border-radius: 10px;
+}
